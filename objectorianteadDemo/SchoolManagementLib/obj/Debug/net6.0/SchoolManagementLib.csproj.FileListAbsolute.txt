@@ -1,0 +1,11 @@
+C:\Users\CDAC\Desktop\MonikaDotnet\objectorianteadDemo\SchoolManagementLib\bin\Debug\net6.0\SchoolManagementLib.deps.json
+C:\Users\CDAC\Desktop\MonikaDotnet\objectorianteadDemo\SchoolManagementLib\bin\Debug\net6.0\SchoolManagementLib.dll
+C:\Users\CDAC\Desktop\MonikaDotnet\objectorianteadDemo\SchoolManagementLib\bin\Debug\net6.0\SchoolManagementLib.pdb
+C:\Users\CDAC\Desktop\MonikaDotnet\objectorianteadDemo\SchoolManagementLib\obj\Debug\net6.0\SchoolManagementLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CDAC\Desktop\MonikaDotnet\objectorianteadDemo\SchoolManagementLib\obj\Debug\net6.0\SchoolManagementLib.AssemblyInfoInputs.cache
+C:\Users\CDAC\Desktop\MonikaDotnet\objectorianteadDemo\SchoolManagementLib\obj\Debug\net6.0\SchoolManagementLib.AssemblyInfo.cs
+C:\Users\CDAC\Desktop\MonikaDotnet\objectorianteadDemo\SchoolManagementLib\obj\Debug\net6.0\SchoolManagementLib.csproj.CoreCompileInputs.cache
+C:\Users\CDAC\Desktop\MonikaDotnet\objectorianteadDemo\SchoolManagementLib\obj\Debug\net6.0\SchoolManagementLib.dll
+C:\Users\CDAC\Desktop\MonikaDotnet\objectorianteadDemo\SchoolManagementLib\obj\Debug\net6.0\refint\SchoolManagementLib.dll
+C:\Users\CDAC\Desktop\MonikaDotnet\objectorianteadDemo\SchoolManagementLib\obj\Debug\net6.0\SchoolManagementLib.pdb
+C:\Users\CDAC\Desktop\MonikaDotnet\objectorianteadDemo\SchoolManagementLib\obj\Debug\net6.0\ref\SchoolManagementLib.dll
