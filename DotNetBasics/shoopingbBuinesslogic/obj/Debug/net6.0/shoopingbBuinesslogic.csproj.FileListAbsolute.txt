@@ -1,0 +1,11 @@
+C:\Users\CDAC\Desktop\MonikaDotnet\DotNetBasics\shoopingbBuinesslogic\bin\Debug\net6.0\shoopingbBuinesslogic.deps.json
+C:\Users\CDAC\Desktop\MonikaDotnet\DotNetBasics\shoopingbBuinesslogic\bin\Debug\net6.0\shoopingbBuinesslogic.dll
+C:\Users\CDAC\Desktop\MonikaDotnet\DotNetBasics\shoopingbBuinesslogic\bin\Debug\net6.0\shoopingbBuinesslogic.pdb
+C:\Users\CDAC\Desktop\MonikaDotnet\DotNetBasics\shoopingbBuinesslogic\obj\Debug\net6.0\shoopingbBuinesslogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CDAC\Desktop\MonikaDotnet\DotNetBasics\shoopingbBuinesslogic\obj\Debug\net6.0\shoopingbBuinesslogic.AssemblyInfoInputs.cache
+C:\Users\CDAC\Desktop\MonikaDotnet\DotNetBasics\shoopingbBuinesslogic\obj\Debug\net6.0\shoopingbBuinesslogic.AssemblyInfo.cs
+C:\Users\CDAC\Desktop\MonikaDotnet\DotNetBasics\shoopingbBuinesslogic\obj\Debug\net6.0\shoopingbBuinesslogic.csproj.CoreCompileInputs.cache
+C:\Users\CDAC\Desktop\MonikaDotnet\DotNetBasics\shoopingbBuinesslogic\obj\Debug\net6.0\shoopingbBuinesslogic.dll
+C:\Users\CDAC\Desktop\MonikaDotnet\DotNetBasics\shoopingbBuinesslogic\obj\Debug\net6.0\refint\shoopingbBuinesslogic.dll
+C:\Users\CDAC\Desktop\MonikaDotnet\DotNetBasics\shoopingbBuinesslogic\obj\Debug\net6.0\shoopingbBuinesslogic.pdb
+C:\Users\CDAC\Desktop\MonikaDotnet\DotNetBasics\shoopingbBuinesslogic\obj\Debug\net6.0\ref\shoopingbBuinesslogic.dll
